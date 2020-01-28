@@ -2,7 +2,7 @@
 Este trabajo consiste en incluir todos los componentes, utilidades de bootstrap vistos en clase y emplear los conceptos básicos de sass,
 en el proyecto de una aplicación web.
 
-## Buscadores Soportados
+## Indice
 
 
 |   No empezado  |    Terminado       |
