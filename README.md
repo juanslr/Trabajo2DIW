@@ -2,11 +2,22 @@
 Este trabajo consiste en incluir todos los componentes, utilidades de bootstrap vistos en clase y emplear los conceptos básicos de sass,
 en el proyecto de una aplicación web.
 
+## Buscadores Soportados
+
+
+|   No empezado  |    Terminado       |
+| ---------------| ------------------ |
+|    :x:         | :white_check_mark: |
+
+
+:white_check_mark:
+:x:
+
 El trabajo deberá incluir lo siguiente:
 
 1- Un css generado por sass dónde se utilice lo siguiente (1.3
 puntos):
-1.1-Partials (0.2 puntos) :black_check_mark:
+1.1-Partials (0.2 puntos) :_check_mark:
 
 1.2-Herencia (0.2 puntos)
 
