@@ -9,10 +9,15 @@ puntos):
 1.1-Partials (0.2 puntos)
 
 1.2-Herencia (0.2 puntos)
+
 1.3-Mixins (0.2 puntos)
+
 1.4-Funciones (0.2 puntos)
+
 1.5-Alguna estructura de control (0.2 puntos(0.1 punto por cada estructura))
+
 1.6-Usar variables (0.2 puntos)
+
 1.7-Usar lista o mapas (0.1 puntos)
 *******************************************************************
 2-Bootstrap (6.7 puntos):
