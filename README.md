@@ -10,8 +10,6 @@ en el proyecto de una aplicación web.
 |    :x:         | :white_check_mark: |
 
 
-:white_check_mark:
-:x:
 
 El trabajo deberá incluir lo siguiente:
 
