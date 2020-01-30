@@ -16,7 +16,7 @@ El trabajo deberá incluir lo siguiente:
 1- Un css generado por sass dónde se utilice lo siguiente (1.3
 puntos):
 
-1.1-Partials (0.2 puntos) :_check_mark:
+1.1-Partials (0.2 puntos) 
 
 1.2-Herencia (0.2 puntos)
 
