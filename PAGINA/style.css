@@ -4,7 +4,18 @@
     height: 25rem;
 }
 
-#principal{
+.carousel-caption {
+    padding-bottom: 6%;
+}
+
+.carousel-caption h3 {
+    font-size: 75px;
+    font-weight: bold;
+}
+
+.carousel-caption p {
+    font-size: 45px;
+    color: #21ddfb;
 }
 
 #footer{
