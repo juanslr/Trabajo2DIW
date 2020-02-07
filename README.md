@@ -57,7 +57,7 @@ puntos):
 
 ■ Breadcrumb (0.2 puntos)
 
-■ Botones (0.2 puntos)
+■ Botones (0.2 puntos):white_check_mark:
 
 ■ Grupo de botones (0.2 puntos)
 
@@ -65,13 +65,13 @@ puntos):
 
 ■ Nav (0.2 puntos)
 
-■ NavBar (0.2 puntos)
+■ NavBar (0.2 puntos):white_check_mark:
 
 ■ Badges (0.2 puntos)
 
 ■ Alertas (0.3 puntos)
 
-■ Carousel (0.3 puntos)
+■ Carousel (0.3 puntos):white_check_mark:
 
 ■ Jumbotron (0.3 puntos)
 
