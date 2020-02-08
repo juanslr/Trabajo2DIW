@@ -3,9 +3,8 @@ Este trabajo consiste en incluir todos los componentes, utilidades de bootstrap 
 en el proyecto de una aplicación web.
 
 ## Indice
-#Heading 1 link [Heading link](https://securityhomeada.000webhostapp.com/index.html")
+#[Click aqui](https://securityhomeada.000webhostapp.com/index.html") Para poder ver la pagina
 
-La pagina esta disponible en: https://securityhomeada.000webhostapp.com/index.html para poder visualizarla
 
 
 |   No empezado  |    Terminado       |
