@@ -33,23 +33,23 @@ puntos):
 
 2-Bootstrap (6.7 puntos):
 
-2.1-Usar un contenedor que aplique diferentes tamaños de columnas dependiendo cada uno de los responsive breakpoints de bootstrap.(0.2 puntos)
+2.1-Usar un contenedor que aplique diferentes tamaños de columnas dependiendo cada uno de los responsive breakpoints de bootstrap.(0.2 puntos):white_check_mark:
 
-2.2-Utilidad de borde. (0.1 puntos)
+2.2-Utilidad de borde. (0.1 puntos):white_check_mark:
 
-2.3-Aplicar un margen y padding distinto a un elemento dependiendo de los responsive breakpoints. (0.2 puntos)
+2.3-Aplicar un margen y padding distinto a un elemento dependiendo de los responsive breakpoints. (0.2 puntos):white_check_mark:
 
-2.4-Utilidades de texto (0.1 puntos)
+2.4-Utilidades de texto (0.1 puntos):white_check_mark:
 
-2.5-Uitlidades de Imagenes (0.2 puntos)
+2.5-Uitlidades de Imagenes (0.2 puntos):white_check_mark:
 
 2.6-Utilidades de embed (0.2 puntos)
 
-2.7-Utilidad de visibilidad (0.2 puntos)
+2.7-Utilidad de visibilidad (0.2 puntos):white_check_mark:
 
-2.8-Tablas (0.2 puntos)
+2.8-Tablas (0.2 puntos):white_check_mark:
 
-2.9-Incluir iconos soportados por bootstrap. (0.2 puntos)
+2.9-Incluir iconos soportados por bootstrap. (0.2 puntos):white_check_mark:
 
 2.9.9-Componentes
 *******************************************************************
@@ -61,7 +61,7 @@ puntos):
 
 ■ Grupo de botones (0.2 puntos)
 
-■ Dropdown (0.3 puntos)
+■ Dropdown (0.3 puntos):white_check_mark:
 
 ■ Nav (0.2 puntos)
 
