@@ -21,14 +21,13 @@
   <!-- NAVEGADOR -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" role="navigation">
     <div class="container">
-        <a id="logo"class="navbar-brand" href="#">SecurityHome</a>
+        <a id="logo"class="navbar-brand" href="index.html">SecurityHome</a>
         <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
             &#9776;
         </button>
         <div class="collapse navbar-collapse" id="exCollapsingNavbar">
             <ul class="nav navbar-nav">
                 <li class="nav-item"><a href="sobrenosotros.html" class="nav-link">Sobre nosotros</a></li>
-                <li class="nav-item"><a href="tienda.html" class="nav-link">Tienda</a></li>
                 <li class="nav-item"><a href="contacto.html" class="nav-link">Ayuda</a></li>
             </ul>
             <ul class="nav navbar-nav flex-row justify-content-between ml-auto">
@@ -47,10 +46,7 @@
                                     <button type="submit" class="btn btn-primary btn-block">Login</button>
                                 </div>
                                 <div class="form-group text-center">
-                                    <small><a href="#" data-toggle="modal" data-target="#modalPassword">olvidastes tu contraseña?</a></small>
-                                </div>
-                                <div class="form-group text-center">
-                                    <small><a href="registro.html" >Ya estas registrado?</a></small>
+                                    <small><a href="#" data-toggle="modal" data-target="#modalPassword">Forgot password?</a></small>
                                 </div>
                             </form>
                         </li>
@@ -123,52 +119,63 @@
 </div>
   <body>
     
-            
-
-
       <!-- CONTAINER -->
-      <p></p>
-      <div id="about" class="container">
-        <div class="starter-template">
-            <div class="text-center">
-            <h1 class="mb-5">Somos SecurityHome, tu seguridad, tu famila</h1>
-            <p>SecurityHome es una empresa dedicada a la seguiridad en tus dispositivos moviles y en tu dia a dia, estaremos para todo aquello que necesites, innovando en tecnologias siempre para una mayor seguiridad, SecurityHome trabaja siempre en la actualizacion con el mejor grupo que puedas imaginarte siempre vemos como ayudar al cliente, porque el cliente es la empresa, el cliente es familia</p>
-        </div>
-        </div>
-        <div class="row text-center pb-4">
-            <div class="col-md-12 col-lg-4 p-1">
-                <img src="imagenes/antivirus.png" class="rounded-circle p-3" alt="Prime Meat Image" width="250" height="200">
-                <h2>Antivirus</h2>
-                <p>1 usuario</p>
-                <p>
-                <p>Licencia valida para ordenador o movil</p>
-                <p>
-                <strong><p>30€/mes</p></strong>
-                <a class="btn btn-info mb-5" href="#" role="button">Contactar</a>
+      <section>
+        <div class="container">
+            <div class="wlt text-center">
+                <h2>Packs</h2>
+                <p>Aqui podra ver todos los productos que ofrecemos</p>
             </div>
-            <div class="col-md-12 col-lg-4 p-1">
-                <img src="imagenes/antivirusPLUS.png" class="rounded-circle p-3" alt="Fish Image" width="250" height="200">
-                <h2>Antivirus Plus</h2>
-                <p>3 usuarios</p>
-                <p>
-                <p>Licencia valida para ordenador o movil</p>
-                <p>
-                <strong><p>45€/mes</p></strong>
-                <a class="btn btn-info mb-5" href="#" role="button">Contactar</a>
-            </div>
-            <div class="col-md-12 col-lg-4 p-1">
-                <img src="imagenes/antivirusFAMILY.png" class="rounded-circle p-3" alt="Vegetables Image" width="250" height="200">
-                <h2>Antivirus Family</h2>
-                <p>usuarios ilimitados</p>
-                <p>
-                <p>Licencia valida para ordenador o movil</p>
-                <p>
-                <strong><p>150€/mes</p></strong>            
-                <a class="btn btn-info mb-5" href="#" role="button">Contactar</a>
-            </div>
-        </div>
-    </div>
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Producto</th>
+                        <th>Demo(1 mes)</th>
+                        <th>Premium</th>
+                        <th>Info</th>
 
+                    </tr>
+                </thead>                
+                <tbody>                    
+                    <tr>
+                        <td class="text-primary">Antivirus</td>
+                        <td>GRATIS</td>
+                        <td>30€/mes</td>
+                        <td><button type="button" class="btn btn-info">Comprar</button></td>
+
+                    </tr>
+                    <tr>
+                        <td>Antivirus<a class="text-warning">Plus</a></td>
+                        <td>GRATIS</td>
+                        <td>45€/mes</td>
+                        <td><button type="button" class="btn btn-info">Comprar</button></td>
+
+                    </tr>
+                    <tr>
+                        <td>Antivirus <a class="text-success">Familiar</a></td>
+                        <td>GRATIS</td>
+                        <td>150€/mes</td>
+                        <td><button type="button" class="btn btn-info">Comprar</button></td>
+
+                    </tr>
+                    <tr>
+                        <td>Antivirus<a class="text-danger"> Enterprise</a></td>
+                        <td>No disponible</td>
+                        <td></td>
+                        <td><button type="button" class="btn btn-danger">Contactar</button></td>
+
+                    </tr>
+                    <tr>
+                        <td>Full Protect pack</td>
+                        <td>GRATIS</td>
+                        <td>100€/mes</td>
+                        <td><button type="button" class="btn btn-info">Contactar</button></td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </div> 
+   </section>
 
 
 
@@ -178,16 +185,16 @@
                 <div class="col-md-4 text-center text-md-left ">
                     
                     <div class="py-0">
-                        <h3 class="my-4 text-white">SecurityHome</span></h3>
+                        <h3 class="my-4 text-white">About SecurityHome</span></h3>
  
                         <p class="footer-links font-weight-bold">
-                            <a class="text-white" href="index.html">Home</a>
+                            <a class="text-white" href="#">Home</a>
                             |
-                            <a class="text-white" href="tienda.html">Tienda</a>
+                            <a class="text-white" href="#">Blog</a>
                             |
-                            <a class="text-white" href="sobrenosotros.html">Sobre nosotros</a>
+                            <a class="text-white" href="#">About</a>
                             |
-                            <a class="text-white" href="contacto.html">Contacto</a>
+                            <a class="text-white" href="#">Contact</a>
                         </p>
                         <p class="text-light py-4 mb-4">&copy;2020 SecurityHome Learning Solutions Pvt. Ltd.</p>
                     </div>
@@ -213,7 +220,7 @@
                 
                 <div class="col-md-4 text-white my-4 text-center text-md-left ">
                     <span class=" font-weight-bold ">Sobre Nosotros</span>
-					<p>Ofrecemos un gran servicio tecnico a todos nuestros clientes ademas de proporcionarles la seguiridad necesaria.</p>
+					<p class="text-warning my-2" >Ofrecemos un gran servicio tecnico a todos nuestros clientes ademas de proporcionarles la seguiridad necesaria.</p>
                     <div class="py-2">
                         <a href="#"><i class="fab fa-facebook fa-2x text-primary mx-3"></i></a>
                         <a href="#"><i class="fab fa-google-plus fa-2x text-danger mx-3"></i></a>
