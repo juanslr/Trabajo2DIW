@@ -55,7 +55,7 @@ puntos):
 
 2.9.9-Componentes
 *******************************************************************
-■ Collapse (0.3 puntos)
+■ Collapse (0.3 puntos):white_check_mark:
 
 ■ Breadcrumb (0.2 puntos)
 
@@ -75,17 +75,17 @@ puntos):
 
 ■ Carousel (0.3 puntos):white_check_mark:
 
-■ Jumbotron (0.3 puntos)
+■ Jumbotron (0.3 puntos):white_check_mark:
 
-■ Forms (0.3 puntos)
+■ Forms (0.3 puntos):white_check_mark:
 
 ■ Validación de forms (0.3 puntos)
 
-■ Input Group (0.3 puntos)
+■ Input Group (0.3 puntos):white_check_mark:
 
-■ Modal (0.3 puntos)
+■ Modal (0.3 puntos):white_check_mark:
 
-■ Tooltip (0.2 puntos)
+■ Tooltip (0.2 puntos):white_check_mark:
 
 ■ PopOver (0.2 puntos)
 
@@ -97,7 +97,7 @@ puntos):
 
 ■ Pagination (0.3 puntos)
 
-■ Card (0.3 puntos)
+■ Card (0.3 puntos):white_check_mark:
 
 ■ Media Object (0.3 puntos)
 
