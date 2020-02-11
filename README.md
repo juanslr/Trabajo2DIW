@@ -65,7 +65,7 @@ puntos):
 
 ■ Dropdown (0.3 puntos):white_check_mark:
 
-■ Nav (0.2 puntos)
+■ Nav (0.2 puntos):white_check_mark:
 
 ■ NavBar (0.2 puntos):white_check_mark:
 
