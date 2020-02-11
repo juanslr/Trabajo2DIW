@@ -71,7 +71,7 @@ puntos):
 
 ■ Badges (0.2 puntos)
 
-■ Alertas (0.3 puntos)
+■ Alertas (0.3 puntos):white_check_mark:
 
 ■ Carousel (0.3 puntos):white_check_mark:
 
