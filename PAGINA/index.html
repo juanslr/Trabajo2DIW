@@ -1,6 +1,9 @@
 <!doctype html>
 <html lang="en">
   <head>
+
+    <link rel="icon" href="imagenes/registro.png">
+
     <!-- Icons -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
@@ -130,6 +133,12 @@
       <p></p>
       <div id="about" class="container">
         <div class="starter-template">
+            <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                <strong>Nuevas Ofertas!</strong>.
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
             <div class="text-center">
             <h1 class="mb-5">Somos SecurityHome, tu seguridad, tu famila</h1>
             <p>SecurityHome es una empresa dedicada a la seguiridad en tus dispositivos moviles y en tu dia a dia, estaremos para todo aquello que necesites, innovando en tecnologias siempre para una mayor seguiridad, SecurityHome trabaja siempre en la actualizacion con el mejor grupo que puedas imaginarte siempre vemos como ayudar al cliente, porque el cliente es la empresa, el cliente es familia</p>
@@ -139,38 +148,64 @@
             <div class="col-md-12 col-lg-4 p-1">
                 <img src="imagenes/antivirus.png" class="rounded-circle p-3" alt="Prime Meat Image" width="250" height="200">
                 <h2>Antivirus</h2>
-                <p>1 usuario</p>
-                <p>
-                <p>Licencia valida para ordenador o movil</p>
-                <p>
-                <strong><p>30€/mes</p></strong>
-                <a class="btn btn-info mb-5" href="#" role="button">Contactar</a>
+
+                <button class="btn btn-info" type="button" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapseExample">
+                    Info
+                  </button>
+                </p>
+                <div class="collapse" id="collapse">
+                  <div class="card card-body">
+                    <p>1 usuario</p>
+                    <p>
+                    <p>Licencia valida para ordenador o movil</p>
+                    <p>
+                    <strong><p>30€/año</p></strong>
+                </div>
+                </div>
             </div>
+
+
             <div class="col-md-12 col-lg-4 p-1">
                 <img src="imagenes/antivirusPLUS.png" class="rounded-circle p-3" alt="Fish Image" width="250" height="200">
                 <h2>Antivirus Plus</h2>
-                <p>3 usuarios</p>
-                <p>
-                <p>Licencia valida para ordenador o movil</p>
-                <p>
-                <strong><p>45€/mes</p></strong>
-                <a class="btn btn-info mb-5" href="#" role="button">Contactar</a>
-            </div>
+
+                <button class="btn btn-info" type="button" data-toggle="collapse" data-target="#collapsePlus" aria-expanded="false" aria-controls="collapseExample">
+                    Info
+                  </button>
+                </p>
+                <div class="collapse" id="collapsePlus">
+                  <div class="card card-body">
+                    <p>3 usuarios</p>
+                    <p>
+                    <p>Licencia valida para ordenador o movil</p>
+                    <p>
+                    <strong><p>85€/año</p></strong>
+                </div>
+                </div>            </div>
+
+
             <div class="col-md-12 col-lg-4 p-1">
                 <img src="imagenes/antivirusFAMILY.png" class="rounded-circle p-3" alt="Vegetables Image" width="250" height="200">
-                <h2>Antivirus Family</h2>
-                <p>usuarios ilimitados</p>
-                <p>
-                <p>Licencia valida para ordenador o movil</p>
-                <p>
-                <strong><p>150€/mes</p></strong>            
-                <a class="btn btn-info mb-5" href="#" role="button">Contactar</a>
+                <h2>Antivirus Family</h2>          
+                    <button class="btn btn-info" type="button" data-toggle="collapse" data-target="#collapseFamily" aria-expanded="false" aria-controls="collapseExample">
+                      Info 
+                    </button>
+                  </p>
+                  <div class="collapse" id="collapseFamily">
+                    <div class="card card-body">
+                        <p>usuarios ilimitados</p>
+                        <p>
+                        <p>Licencia valida para ordenador o movil</p>
+                        <p>
+                        <strong><p>100€/año</p></strong>
+                    </div>
+                  </div>
             </div>
         </div>
     </div>
 
 
-
+    <!-- Footer -->
 
     <footer id="footer" style="background-color: #082036">
         <div class="container">

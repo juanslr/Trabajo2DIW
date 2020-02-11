@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="node_modules/mdbootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="node_modules/mdbootstrap/css/mdb.min.css">
     <link rel="stylesheet" href="node_modules/mdbootstrap/css/style.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -15,23 +15,26 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="../style.css">
     <title>SecurityHome</title>
   </head>
   <!-- NAVEGADOR -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" role="navigation">
     <div class="container">
-        <a id="logo"class="navbar-brand" href="index.html">SecurityHome</a>
+        <a id="logo"class="navbar-brand" href="../index.html">SecurityHome</a>
         <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
             &#9776;
         </button>
         <div class="collapse navbar-collapse" id="exCollapsingNavbar">
             <ul class="nav navbar-nav">
-                <li class="nav-item"><a href="sobrenosotros.html" class="nav-link">Sobre nosotros</a></li>
-                <li class="nav-item"><a href="tienda.html" class="nav-link">Tienda</a></li>
+                <li class="nav-item"><a href="../sobrenosotros.html" class="nav-link">Sobre nosotros</a></li>
+                <li class="nav-item"><a href="../tienda.html" class="nav-link">Tienda</a></li>
+                <li class="nav-item"><a href="../contacto.html" class="nav-link">Ayuda</a></li>
             </ul>
-                <ul class="nav navbar-nav flex-row justify-content-between ml-auto">
-                <h3><i class="fas fa-user"></i></h3>
+            <ul class="nav navbar-nav flex-row justify-content-between ml-auto">
+                <li class="dropdown order-1">
+                        <h3><i class="fas fa-user"></i></h3>
+                        </li>
                     </ul>
                 </li>
             </ul>
@@ -100,66 +103,143 @@
     </a>
 </div>
   <body>
-            
+    
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+          <h1 class="display-4">SecurityHome</h1>
+          <p class="lead">Nuestra prioridad es su seguridad.</p>
+        </div>
+      </div>         
 
 
-      <!-- CONTAINER -->
-      <form class="form-contact">
-        <div class="form-row">
-          <div class="form-group col-md-6">
-            <label for="inputEmail4">Nombre</label>
-            <input type="text" class="form-control" id="inputEmail4">
-          </div>
-          <div class="form-group col-md-6">
-            <label for="inputPassword4">Apellidos</label>
-            <input type="text" class="form-control" id="inputPassword4">
-          </div>
-        </div>
-        <div class="form-group">
-          <label for="inputAddress">Address</label>
-          <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
-        </div>
-        <div class="form-group">
-          <label for="inputAddress2">Address 2</label>
-          <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
-        </div>
-        <div class="form-row">
-          <div class="form-group col-md-6">
-            <label for="inputCity">City</label>
-            <input type="text" class="form-control" id="inputCity">
-          </div>
-          <div class="form-group col-md-4">
-            <label for="inputState">State</label>
-            <select id="inputState" class="form-control">
-              <option selected>Choose...</option>
-              <option>...</option>
-            </select>
-          </div>
-          <div class="form-group col-md-2">
-            <label for="inputZip">Zip</label>
-            <input type="text" class="form-control" id="inputZip">
-          </div>
-        </div>
-        <div class="form-group">
-          <div class="form-check">
-            <input class="form-check-input" type="checkbox" id="gridCheck">
-            <label class="form-check-label" for="gridCheck">
-              Check me out
-            </label>
-          </div>
-        </div>
-        <div class="form-group">
-            <label for="exampleFormControlTextarea1">Example textarea</label>
-            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-          </div>
-          <div class="text-center">
-            <button type="submit" class="btn btn-primary">Enviar</button>
-        </div>
-      </form>
+      <!-- CONTAINER  @Bootstap Edit-->
+      <div class="container">
+        <div class="py-5 text-center">
 
+        </div>
+      
+        <div class="row">
+          <div class="col-md-4 order-md-2 mb-4">
+            <h4 class="d-flex justify-content-between align-items-center mb-3">
+              <span class="text-muted">Full Protect Pack</span>
+              <span class="badge badge-secondary badge-pill">1</span>
+                <p></p>
+            </h4>
+            <div class="col-md-12 col-lg-4 p-1">
+                <img src="../imagenes/antiviruspACK.png" class="rounded-circle p-3" alt="Prime Meat Image" width="250" height="200">
+            </div>
+            <div class="precio">            
+                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Total:</a>
+                <h6><a style="margin-left:1.2em;"class="text-success">100€</a></h6>            
+            </div>
 
+            <form class="card p-2">
+              <div class="input-group">
+                <input type="text" class="form-control" placeholder="CODIGO">
+                <div class="input-group-append">
+                  <button type="submit" class="btn btn-secondary">Canjear</button>
+                </div>
+              </div>
+            </form>
+          </div>
+          <div class="col-md-8 order-md-1">
+            <h4 class="mb-3">Facturacion</h4>
+            <form class="needs-validation" novalidate="">
+              <div class="row">
+                <div class="col-md-6 mb-3">
+                  <label for="firstName">Nombre</label><span class="text-danger">*</span>
+                  <input type="text" class="form-control" id="firstName" placeholder="" value="" required="">
 
-    <!-- FOOTER -->
+                </div>
+                <div class="col-md-6 mb-3">
+                  <label for="lastName">Apellido(s)</label><span class="text-danger">*</span>
+                  <input type="text" class="form-control" id="lastName" placeholder="" value="" required="">
+
+                </div>
+              </div>
+      
+
+              <div class="mb-3">
+                <label for="email">Email <span class="text-danger">*</span></label>
+                <input type="email" class="form-control" id="email" placeholder="you@example.com">
+                <div class="invalid-feedback">
+                  Please enter a valid email address for shipping updates.
+                </div>
+              </div>
+      
+              <div class="mb-3">
+                <label for="address2">Direccion <span class="text-danger">*</span></label>
+                <input type="text" class="form-control" id="address" placeholder="1234 Main St" required="">
+
+              </div>
+      
+              <div class="mb-3">
+                <label for="address2">Direccion 2 <span class="text-muted"></span></label>
+                <input type="text" class="form-control" id="address2" placeholder="Apartment or suite">
+              </div>
+      
+              <hr class="mb-4">
+              <div class="custom-control custom-checkbox">
+                <input type="checkbox" class="custom-control-input" id="same-address">
+                <label class="custom-control-label" for="same-address">La dirección de envío es la misma que mi dirección de facturación</label>
+              </div>
+              <div class="custom-control custom-checkbox">
+                <input type="checkbox" class="custom-control-input" id="save-info">
+                <label class="custom-control-label" for="save-info">Recuerdame</label>
+              </div>
+              <hr class="mb-4">
+      
+              <h4 class="mb-3">Metodo de pago</h4>
+      
+              <div class="d-block my-3">
+                <div class="custom-control custom-radio">                   
+                  <input id="credit" name="paymentMethod" type="radio" class="custom-control-input" checked="" required="">
+                  <label class="custom-control-label" for="credit">Tarjeta de credito</label>
+
+                </div>
+                <div class="custom-control custom-radio">
+                  <input id="debit" name="paymentMethod" type="radio" class="custom-control-input" required="">
+                  <label class="custom-control-label" for="debit">Paypal</label>
+                </div>
+                <div class="custom-control custom-radio">
+                  <input id="paypal" name="paymentMethod" type="radio" class="custom-control-input" required="">
+                  <label class="custom-control-label" for="paypal">Bitcoin</label>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-6 mb-3">
+                  <label for="cc-name">Nombre en la tarjeta</label>
+                  <input type="text" class="form-control" id="cc-name" placeholder="" required="">
+                  <small class="text-muted">Escriba el nombre completo</small>
+
+                </div>
+                <div class="col-md-6 mb-3">
+                  <label for="cc-number">Numero de tarjeta</label>
+                  <input type="text" class="form-control" id="cc-number" placeholder="" required="">
+
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-3 mb-3">
+                  <label for="cc-expiration">Caducidad</label>
+                  <input type="text" class="form-control" id="cc-expiration" placeholder="" required="">
+
+                </div>
+                <div class="col-md-3 mb-3">
+                  <label for="cc-cvv">CVV</label>
+                  <input type="text" class="form-control" id="cc-cvv" placeholder="" required="">
+
+                </div>
+              </div>
+              <hr class="mb-4">
+              <button class="btn btn-primary btn-lg btn-block" type="submit">Comprar</button>
+            </form>
+          </div>
+        </div>
+      </div>
+      <p></p>
+      <!-- FOOTER -->
+
     <footer id="footer" style="background-color: #082036">
         <div class="container">
             <div class="row ">
@@ -169,13 +249,13 @@
                         <h3 class="my-4 text-white">SecurityHome</span></h3>
  
                         <p class="footer-links font-weight-bold">
-                            <a class="text-white" href="#">Home</a>
+                            <a class="text-white" href="index.html">Home</a>
                             |
-                            <a class="text-white" href="#">Blog</a>
+                            <a class="text-white" href="tienda.html">Tienda</a>
                             |
-                            <a class="text-white" href="#">About</a>
+                            <a class="text-white" href="sobrenosotros.html">Sobre nosotros</a>
                             |
-                            <a class="text-white" href="#">Contact</a>
+                            <a class="text-white" href="contacto.html">Contacto</a>
                         </p>
                         <p class="text-light py-4 mb-4">&copy;2020 SecurityHome Learning Solutions Pvt. Ltd.</p>
                     </div>
