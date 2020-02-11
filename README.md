@@ -45,7 +45,7 @@ puntos):
 
 2.5-Uitlidades de Imagenes (0.2 puntos):white_check_mark:
 
-2.6-Utilidades de embed (0.2 puntos)
+2.6-Utilidades de embed (0.2 puntos):white_check_mark:
 
 2.7-Utilidad de visibilidad (0.2 puntos):white_check_mark:
 
@@ -53,7 +53,7 @@ puntos):
 
 2.9-Incluir iconos soportados por bootstrap. (0.2 puntos):white_check_mark:
 
-2.9.9-Componentes
+2.9.9-Componentes:white_check_mark:
 *******************************************************************
 ■ Collapse (0.3 puntos):white_check_mark:
 
