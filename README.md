@@ -57,7 +57,7 @@ puntos):
 *******************************************************************
 ■ Collapse (0.3 puntos):white_check_mark:
 
-■ Breadcrumb (0.2 puntos)
+■ Breadcrumb (0.2 puntos):white_check_mark:
 
 ■ Botones (0.2 puntos):white_check_mark:
 
@@ -69,7 +69,7 @@ puntos):
 
 ■ NavBar (0.2 puntos):white_check_mark:
 
-■ Badges (0.2 puntos)
+■ Badges (0.2 puntos):white_check_mark:
 
 ■ Alertas (0.3 puntos):white_check_mark:
 
@@ -87,15 +87,15 @@ puntos):
 
 ■ Tooltip (0.2 puntos):white_check_mark:
 
-■ PopOver (0.2 puntos)
+■ PopOver (0.2 puntos):white_check_mark:
 
-■ Progress (0.3 puntos)
+■ Progress (0.3 puntos):white_check_mark:
 
-■ ListGroup (0.3 puntos)
+■ ListGroup (0.3 puntos):white_check_mark:
 
-■ Scrollspy (0.3 puntos)
+■ Scrollspy (0.3 puntos):x:
 
-■ Pagination (0.3 puntos)
+■ Pagination (0.3 puntos):white_check_mark:
 
 ■ Card (0.3 puntos):white_check_mark:
 
