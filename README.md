@@ -55,49 +55,49 @@ puntos):
 
 2.9.9-Componentes:white_check_mark:
 *******************************************************************
-■ Collapse (0.3 puntos):white_check_mark:
+■ Collapse (0.3 puntos):white_check_mark: (Index.html-Linea 218)
 
-■ Breadcrumb (0.2 puntos):white_check_mark:
+■ Breadcrumb (0.2 puntos):white_check_mark: (Index.html-Linea 137)
 
-■ Botones (0.2 puntos):white_check_mark:
+■ Botones (0.2 puntos):white_check_mark: (Index.html-Linea 152)
 
 ■ Grupo de botones (0.2 puntos)
 
-■ Dropdown (0.3 puntos):white_check_mark:
+■ Dropdown (0.3 puntos):white_check_mark: (Index.html-Linea 40)
 
-■ Nav (0.2 puntos):white_check_mark:
+■ Nav (0.2 puntos):white_check_mark: (Index.html-Linea 27)
 
-■ NavBar (0.2 puntos):white_check_mark:
+■ NavBar (0.2 puntos):white_check_mark: (Index.html-Linea 27)
 
-■ Badges (0.2 puntos):white_check_mark:
+■ Badges (0.2 puntos):white_check_mark: (tienda.html-Linea 38)
 
-■ Alertas (0.3 puntos):white_check_mark:
+■ Alertas (0.3 puntos):white_check_mark:(Index.html-Linea 150)
 
-■ Carousel (0.3 puntos):white_check_mark:
+■ Carousel (0.3 puntos):white_check_mark: (Index.html-Linea 92)
 
-■ Jumbotron (0.3 puntos):white_check_mark:
+■ Jumbotron (0.3 puntos):white_check_mark: (compras/01.html-Linea 112)
 
-■ Forms (0.3 puntos):white_check_mark:
+■ Forms (0.3 puntos):white_check_mark: (compras/01.html-Linea 142)
 
-■ Validación de forms (0.3 puntos)
+■ Validación de forms (0.3 puntos) (registro.html-Linea 136)
 
-■ Input Group (0.3 puntos):white_check_mark:
+■ Input Group (0.3 puntos):white_check_mark: (compras/01.html-Linea 142)
 
-■ Modal (0.3 puntos):white_check_mark:
+■ Modal (0.3 puntos):white_check_mark: (compras/01.html-Linea 47)
 
-■ Tooltip (0.2 puntos):white_check_mark:
+■ Tooltip (0.2 puntos):white_check_mark: 
 
-■ PopOver (0.2 puntos):white_check_mark:
+■ PopOver (0.2 puntos):white_check_mark: (tienda.html-Linea 175)
 
-■ Progress (0.3 puntos):white_check_mark:
+■ Progress (0.3 puntos):white_check_mark: (sobrenosotros.html-Linea 183)
 
-■ ListGroup (0.3 puntos):white_check_mark:
+■ ListGroup (0.3 puntos):white_check_mark: (compras/04.html-Linea 37)
 
 ■ Scrollspy (0.3 puntos):x:
 
-■ Pagination (0.3 puntos):white_check_mark:
+■ Pagination (0.3 puntos):white_check_mark: (compras/01.html-Linea 250)
 
-■ Card (0.3 puntos):white_check_mark:
+■ Card (0.3 puntos):white_check_mark: (sobrenosotros.html-Linea 147)
 
 ■ Media Object (0.3 puntos)
 
