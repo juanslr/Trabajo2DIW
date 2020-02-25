@@ -85,7 +85,7 @@ puntos):
 
 ■ Modal (0.3 puntos):white_check_mark: (compras/01.html-Linea 47)
 
-■ Tooltip (0.2 puntos):white_check_mark: 
+■ Tooltip (0.2 puntos):white_check_mark: (index.html-Linea 167)
 
 ■ PopOver (0.2 puntos):white_check_mark: (tienda.html-Linea 175)
 
@@ -93,13 +93,13 @@ puntos):
 
 ■ ListGroup (0.3 puntos):white_check_mark: (compras/04.html-Linea 37)
 
-■ Scrollspy (0.3 puntos):x:
+■ Scrollspy (0.3 puntos):white_check_mark: (Terminos.html-Linea 62)
 
 ■ Pagination (0.3 puntos):white_check_mark: (compras/01.html-Linea 250)
 
 ■ Card (0.3 puntos):white_check_mark: (sobrenosotros.html-Linea 147)
 
-■ Media Object (0.3 puntos)
+■ Media Object (0.3 puntos):white_check_mark: (sobrenosotros.html-Linea 94)
 
 *******************************************************************
 
