@@ -99,7 +99,7 @@ puntos):
 
 ■ Card (0.3 puntos):white_check_mark: (sobrenosotros.html-Linea 147)
 
-■ Media Object (0.3 puntos):white_check_mark: (sobrenosotros.html-Linea 94)
+■ Media Object (0.3 puntos):white_check_mark: (sobrenosotros.html-Linea 153)
 
 *******************************************************************
 
